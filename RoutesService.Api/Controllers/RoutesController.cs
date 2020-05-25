@@ -30,7 +30,7 @@ namespace RoutesService.Api.Controllers
                 var response = "";
                 if (route != null)
                 {
-                    route.RequestedDateTime = DateTime.Now;
+                    //route.RequestedDateTime = DateTime.Now;
                     response = _routeService.RetrieveNextArrivalTimes(route);
                 }
                 return Ok(response);

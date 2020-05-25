@@ -7,3 +7,12 @@ D:\Test\BusRoutes\RoutesServices.Models\obj\Debug\netcoreapp3.1\RoutesServices.M
 D:\Test\BusRoutes\RoutesServices.Models\obj\Debug\netcoreapp3.1\RoutesServices.Models.AssemblyInfo.cs
 D:\Test\BusRoutes\RoutesServices.Models\obj\Debug\netcoreapp3.1\RoutesServices.Models.dll
 D:\Test\BusRoutes\RoutesServices.Models\obj\Debug\netcoreapp3.1\RoutesServices.Models.pdb
+D:\GitHub Repos\routes-service-api\RoutesServices.Models\bin\Debug\netcoreapp3.1\RoutesServices.Models.deps.json
+D:\GitHub Repos\routes-service-api\RoutesServices.Models\bin\Debug\netcoreapp3.1\RoutesServices.Models.dll
+D:\GitHub Repos\routes-service-api\RoutesServices.Models\bin\Debug\netcoreapp3.1\RoutesServices.Models.pdb
+D:\GitHub Repos\routes-service-api\RoutesServices.Models\obj\Debug\netcoreapp3.1\RoutesServices.Models.csprojAssemblyReference.cache
+D:\GitHub Repos\routes-service-api\RoutesServices.Models\obj\Debug\netcoreapp3.1\RoutesServices.Models.csproj.CoreCompileInputs.cache
+D:\GitHub Repos\routes-service-api\RoutesServices.Models\obj\Debug\netcoreapp3.1\RoutesServices.Models.AssemblyInfoInputs.cache
+D:\GitHub Repos\routes-service-api\RoutesServices.Models\obj\Debug\netcoreapp3.1\RoutesServices.Models.AssemblyInfo.cs
+D:\GitHub Repos\routes-service-api\RoutesServices.Models\obj\Debug\netcoreapp3.1\RoutesServices.Models.dll
+D:\GitHub Repos\routes-service-api\RoutesServices.Models\obj\Debug\netcoreapp3.1\RoutesServices.Models.pdb

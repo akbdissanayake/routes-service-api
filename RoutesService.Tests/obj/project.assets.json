@@ -4252,11 +4252,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Test\\BusRoutes\\RoutesService.Tests\\RoutesService.Tests.csproj",
+      "projectUniqueName": "D:\\GitHub Repos\\routes-service-api\\RoutesService.Tests\\RoutesService.Tests.csproj",
       "projectName": "RoutesService.Tests",
-      "projectPath": "D:\\Test\\BusRoutes\\RoutesService.Tests\\RoutesService.Tests.csproj",
+      "projectPath": "D:\\GitHub Repos\\routes-service-api\\RoutesService.Tests\\RoutesService.Tests.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\Test\\BusRoutes\\RoutesService.Tests\\obj\\",
+      "outputPath": "D:\\GitHub Repos\\routes-service-api\\RoutesService.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4275,11 +4275,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Test\\BusRoutes\\RoutesService.Api\\RoutesService.Api.csproj": {
-              "projectPath": "D:\\Test\\BusRoutes\\RoutesService.Api\\RoutesService.Api.csproj"
+            "D:\\GitHub Repos\\routes-service-api\\RoutesService.Api\\RoutesService.Api.csproj": {
+              "projectPath": "D:\\GitHub Repos\\routes-service-api\\RoutesService.Api\\RoutesService.Api.csproj"
             },
-            "D:\\Test\\BusRoutes\\RoutesServices.Models\\RoutesServices.Models.csproj": {
-              "projectPath": "D:\\Test\\BusRoutes\\RoutesServices.Models\\RoutesServices.Models.csproj"
+            "D:\\GitHub Repos\\routes-service-api\\RoutesServices.Models\\RoutesServices.Models.csproj": {
+              "projectPath": "D:\\GitHub Repos\\routes-service-api\\RoutesServices.Models\\RoutesServices.Models.csproj"
             }
           }
         }
