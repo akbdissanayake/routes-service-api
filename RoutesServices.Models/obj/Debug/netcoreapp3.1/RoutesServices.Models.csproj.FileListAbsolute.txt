@@ -1,0 +1,9 @@
+D:\Test\BusRoutes\RoutesServices.Models\bin\Debug\netcoreapp3.1\RoutesServices.Models.deps.json
+D:\Test\BusRoutes\RoutesServices.Models\bin\Debug\netcoreapp3.1\RoutesServices.Models.dll
+D:\Test\BusRoutes\RoutesServices.Models\bin\Debug\netcoreapp3.1\RoutesServices.Models.pdb
+D:\Test\BusRoutes\RoutesServices.Models\obj\Debug\netcoreapp3.1\RoutesServices.Models.csprojAssemblyReference.cache
+D:\Test\BusRoutes\RoutesServices.Models\obj\Debug\netcoreapp3.1\RoutesServices.Models.csproj.CoreCompileInputs.cache
+D:\Test\BusRoutes\RoutesServices.Models\obj\Debug\netcoreapp3.1\RoutesServices.Models.AssemblyInfoInputs.cache
+D:\Test\BusRoutes\RoutesServices.Models\obj\Debug\netcoreapp3.1\RoutesServices.Models.AssemblyInfo.cs
+D:\Test\BusRoutes\RoutesServices.Models\obj\Debug\netcoreapp3.1\RoutesServices.Models.dll
+D:\Test\BusRoutes\RoutesServices.Models\obj\Debug\netcoreapp3.1\RoutesServices.Models.pdb

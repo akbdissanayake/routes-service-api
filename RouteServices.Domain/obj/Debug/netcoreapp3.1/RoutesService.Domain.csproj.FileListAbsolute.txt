@@ -1,0 +1,12 @@
+D:\Test\BusRoutes\RouteServices.Domain\bin\Debug\netcoreapp3.1\RoutesService.Domain.deps.json
+D:\Test\BusRoutes\RouteServices.Domain\bin\Debug\netcoreapp3.1\RoutesService.Domain.dll
+D:\Test\BusRoutes\RouteServices.Domain\bin\Debug\netcoreapp3.1\RoutesService.Domain.pdb
+D:\Test\BusRoutes\RouteServices.Domain\bin\Debug\netcoreapp3.1\RoutesServices.Models.dll
+D:\Test\BusRoutes\RouteServices.Domain\bin\Debug\netcoreapp3.1\RoutesServices.Models.pdb
+D:\Test\BusRoutes\RouteServices.Domain\obj\Debug\netcoreapp3.1\RoutesService.Domain.csprojAssemblyReference.cache
+D:\Test\BusRoutes\RouteServices.Domain\obj\Debug\netcoreapp3.1\RoutesService.Domain.csproj.CoreCompileInputs.cache
+D:\Test\BusRoutes\RouteServices.Domain\obj\Debug\netcoreapp3.1\RoutesService.Domain.AssemblyInfoInputs.cache
+D:\Test\BusRoutes\RouteServices.Domain\obj\Debug\netcoreapp3.1\RoutesService.Domain.AssemblyInfo.cs
+D:\Test\BusRoutes\RouteServices.Domain\obj\Debug\netcoreapp3.1\RoutesService.Domain.csproj.CopyComplete
+D:\Test\BusRoutes\RouteServices.Domain\obj\Debug\netcoreapp3.1\RoutesService.Domain.dll
+D:\Test\BusRoutes\RouteServices.Domain\obj\Debug\netcoreapp3.1\RoutesService.Domain.pdb
